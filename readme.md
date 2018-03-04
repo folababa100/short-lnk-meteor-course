@@ -1,2 +1,7 @@
-Short Lnk
-This is a meteor and react app which shortens url.
+# Short Lnk
+
+This is=a link shortener built on Meteor and React.
+
+## Authors
+
+Andrew Mead
